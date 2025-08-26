@@ -16,7 +16,7 @@ namespace Fehrestoonak_V1
 
             string new_work = $"{id.Last() + 1},,{Subject},,{date}";
 
-            File.AppendAllText("user_works.txt", works + new_work + ";;");
+            File.AppendAllText("user_works.txt", new_work + ";;\n");
         }
 
         public List<Work_List> GetList()
