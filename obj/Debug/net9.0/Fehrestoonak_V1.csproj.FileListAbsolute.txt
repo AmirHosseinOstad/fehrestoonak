@@ -1,0 +1,14 @@
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\bin\Debug\net9.0\Fehrestoonak_V1.exe
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\bin\Debug\net9.0\Fehrestoonak_V1.deps.json
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\bin\Debug\net9.0\Fehrestoonak_V1.runtimeconfig.json
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\bin\Debug\net9.0\Fehrestoonak_V1.dll
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\bin\Debug\net9.0\Fehrestoonak_V1.pdb
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\obj\Debug\net9.0\Fehrestoonak_V1.GeneratedMSBuildEditorConfig.editorconfig
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\obj\Debug\net9.0\Fehrestoonak_V1.AssemblyInfoInputs.cache
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\obj\Debug\net9.0\Fehrestoonak_V1.AssemblyInfo.cs
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\obj\Debug\net9.0\Fehrestoonak_V1.csproj.CoreCompileInputs.cache
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\obj\Debug\net9.0\Fehrestoonak_V1.dll
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\obj\Debug\net9.0\refint\Fehrestoonak_V1.dll
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\obj\Debug\net9.0\Fehrestoonak_V1.pdb
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\obj\Debug\net9.0\Fehrestoonak_V1.genruntimeconfig.cache
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\obj\Debug\net9.0\ref\Fehrestoonak_V1.dll
