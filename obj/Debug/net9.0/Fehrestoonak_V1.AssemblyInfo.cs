@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fehrestoonak_V1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3561960f9b6e3fc080bbffffa95874932b8bbdc7")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59b94902af6f1fd766f35ed9b5d4728650a4ad02")]
+>>>>>>> TextClass
 [assembly: System.Reflection.AssemblyProductAttribute("Fehrestoonak_V1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fehrestoonak_V1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,6 +11,7 @@ Console.WriteLine(">> Enter 'help' to get help");
 Console.WriteLine();
 
 Work work_class = new Work();
+FixTextList fixText = new FixTextList();
 
 for (; ; )
 {
@@ -21,7 +22,16 @@ for (; ; )
 
     if (input == "list")
     {
-        Console.WriteLine(work_class.GetList());
+        foreach (var work in work_class.GetList())
+        {
+            Console.Write(fixText.FixSpaces(work.Id, 2));
+            Console.Write(" | ");
+            Console.Write(fixText.FixSpaces(work.Subject, 30));
+            Console.Write(" | ");
+            Console.Write(fixText.FixSpaces(work.Date, 18));
+            Console.WriteLine();
+
+        }
     }
     else if (input == "help")
     {
