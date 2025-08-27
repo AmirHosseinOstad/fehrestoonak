@@ -9,3 +9,7 @@ Otherwise, you can see the list of tasks by giving the specific command "list".
 
 If you have done a task (by default, its status is in progress), just give the command "done{ID}" and enter the task number instead of the {ID}.
 To remove a task from the list, simply type the command "-del{ID}" and replace {ID} with the task code.
+
+
+picture of console:
+<img width="1920" height="1012" alt="{D0427152-E865-49D2-B575-85A7E1D1FFEA}" src="https://github.com/user-attachments/assets/c1a588c1-ffd4-456a-ac5d-332950037de4" />
