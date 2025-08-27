@@ -24,7 +24,7 @@ namespace Fehrestoonak_V1
         public List<Work_List> GetList()
         {
             string works = File.ReadAllText("user_works.txt");
-            string[] works_arr = works.Replace("\n", "").Split(";;");
+            string[] works_arr = works.Replace("\n", "").Split(";;",StringSplitOptions.RemoveEmptyEntries);
 
             List<Work_List> list = new List<Work_List>();
 
@@ -49,7 +49,7 @@ namespace Fehrestoonak_V1
             try
             {
                 string works = File.ReadAllText("user_works.txt");
-                var rows = works.Split(";;").ToList();
+                var rows = works.Split(";;", StringSplitOptions.RemoveEmptyEntries).ToList();
 
                 for (int i = 0; i < rows.Count; i++)
                 {

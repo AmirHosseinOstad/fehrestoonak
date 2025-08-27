@@ -12,3 +12,4 @@ D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\obj\Debug\net9.0\refint\Fehr
 D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\obj\Debug\net9.0\Fehrestoonak_V1.pdb
 D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\obj\Debug\net9.0\Fehrestoonak_V1.genruntimeconfig.cache
 D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\obj\Debug\net9.0\ref\Fehrestoonak_V1.dll
+D:\My World\Elesoft\Fehrestoonak_V1\Fehrestoonak_V1\obj\Debug\net9.0\Fehrestoonak_V1.sourcelink.json

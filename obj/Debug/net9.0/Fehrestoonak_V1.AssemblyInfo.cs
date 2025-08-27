@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fehrestoonak_V1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efc3b5522e596d5a0e59f80cdfda7bbea135e64a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19b037404150dbe7e691b67211e9e94fdd8c45ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fehrestoonak_V1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fehrestoonak_V1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
