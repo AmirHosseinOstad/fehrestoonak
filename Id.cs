@@ -16,9 +16,9 @@ namespace Fehrestoonak_V1
 
             if (!String.IsNullOrEmpty(works))
             {
-                string[] works_arr = works.Replace("\n", "").Split(";;");
+                string[] works_arr = works.Replace("\n", "").Split(";;", StringSplitOptions.RemoveEmptyEntries);
 
-                string last_work = works_arr[works_arr.Length - 2];
+                string last_work = works_arr[works_arr.Length - 1];
 
                 id = Convert.ToInt32(last_work.Split(",,")[0]);
             }

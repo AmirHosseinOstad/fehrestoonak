@@ -10,6 +10,7 @@ namespace Fehrestoonak_V1
     {
         public string Id {  get; set; }
         public string Subject { get; set; }
+        public string Status { get; set; }
         public string Date { get; set; }
     }
 }

@@ -1,0 +1,9 @@
+If you also have trouble remembering your tasks, this is your solution!
+
+Each task is stored in a txt table, note that ,, and ;; are used to separate the columns and rows of the table, and for this reason these are forbidden characters.
+The input value must be more than 3 letters long and three-letter words are not valid.
+
+If you don't need a command, just enter the task subject and press enter to save it in the table,
+Otherwise, you can see the list of tasks by giving the specific command "list".
+If you have done a task (by default, its status is in progress), just give the command "done{ID}" and enter the task number instead of the {ID}.
+To remove a task from the list, simply type the command "-del{ID}" and replace {ID} with the task code.
