@@ -18,7 +18,7 @@ namespace Fehrestoonak_V1
 
             string new_work = $"{id.Last() + 1},,{Subject},,Progress,,{date}";
 
-            File.AppendAllText("user_works.txt", new_work + ";;\n");
+            File.AppendAllText("user_works.txt", new_work + ";;");
         }
 
         public List<Work_List> GetList()
@@ -88,7 +88,7 @@ namespace Fehrestoonak_V1
 
                     if (int.TryParse(cols[0], out int id) && id == Id)
                     {
-                        result = rows[i];
+                        result = rows[i] + ";;";
                         break;
                     }
                 }
